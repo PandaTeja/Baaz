@@ -1,0 +1,320 @@
+/* Write your CSS here */
+.phone {
+  position: relative;
+  width: 375px;
+  height: 812px;
+
+  background: #fefcff;
+  border: 9px solid #171b24;
+  border-radius: 36px;
+}
+.heading {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  left: 24px;
+  top: 277px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 28px;
+  /* identical to box height, or 100% */
+
+  letter-spacing: -0.04em;
+
+  color: #171b24;
+}
+.dis-image {
+  position: absolute;
+  width: 99px;
+  height: 108px;
+  left: 27px;
+  top: -44px;
+}
+.image-container {
+  position: absolute;
+  width: 154px;
+  height: 149px;
+  left: 24px;
+  top: 588px;
+
+  background: #f4f4f8;
+  border-radius: 12px;
+  text-align: center;
+}
+.image-heading {
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.03em;
+
+  color: #414044;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.price {
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.05em;
+
+  color: #f7c390;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.img-footer {
+  margin-top: 50%;
+}
+.dis-imagew {
+  position: absolute;
+  width: 92px;
+  height: 129px;
+  left: 31px;
+  top: -60px;
+}
+.image-containerw {
+  position: absolute;
+  width: 154px;
+  height: 135px;
+  left: 24px;
+  top: 389px;
+
+  background: #f4f4f8;
+  border-radius: 12px;
+  text-align: center;
+}
+.image-headingw {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.03em;
+
+  color: #414044;
+  text-align: center;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.pricew {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+  text-align: center;
+  letter-spacing: -0.05em;
+
+  color: #f7c390;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.dis-images {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  left: 16px;
+  top: -47px;
+}
+.image-containers {
+  position: absolute;
+  width: 154px;
+  height: 155px;
+  left: 197px;
+  top: 311px;
+
+  background: #f4f4f8;
+  border-radius: 12px;
+  text-align: center;
+}
+.image-headings {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.03em;
+
+  color: #414044;
+  text-align: center;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.prices {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.05em;
+
+  color: #f7c390;
+  text-align: center;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.dis-imagel {
+  position: absolute;
+  width: 100px;
+  height: 144px;
+  left: 22px;
+  top: -44px;
+}
+.image-containerl {
+  position: absolute;
+  width: 153px;
+  height: 175px;
+  left: 198px;
+  top: 530px;
+
+  background: #f4f4f8;
+  border-radius: 12px;
+  text-align: center;
+}
+.image-headingl {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.03em;
+
+  color: #414044;
+  text-align: center;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.pricel {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: -0.05em;
+
+  color: #f7c390;
+
+  color: #f7c390;
+  text-align: center;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.img-footerw {
+  margin-top: 42%;
+}
+.img-footers {
+  margin-top: 55%;
+}
+.img-footerl {
+  margin-top: 63%;
+}
+.footerContainer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+  height: 66px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background: #fff;
+  box-shadow: 0px -4px 25px rgba(0, 0, 0, 0.04);
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.line {
+  position: absolute;
+  width: 139px;
+  height: 6px;
+  left: 122px;
+  top: 52px;
+  bottom: 0;
+  background: #142134;
+  border-radius: 44px;
+}
+.line-con {
+  position: static;
+  width: 381px;
+  height: 23px;
+  border-radius: 30px;
+  left: 0px;
+  top: 66px;
+  background: #ffffff;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 0px;
+}
